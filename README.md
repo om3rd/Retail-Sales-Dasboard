@@ -9,3 +9,22 @@ In this dashboard, the categories of retail sales, products, the most returned p
 - # Screenshots of the Dashboard
 
 
+![Screenshot 1](images/Screenshot%20(114).png)
+
+![Screenshot 1](images/Screenshot%20(115).png)
+
+![Screenshot 1](images/Screenshot%20(116).png)
+
+![Screenshot 1](images/Screenshot%20(117).png)
+
+![Screenshot 1](images/Screenshot%20(119).png)
+
+![Screenshot 1](images/Screenshot%20(120).png)
+
+![Screenshot 1](images/Screenshot%20(121).png)
+
+![Screenshot 1](images/Screenshot%20(122).png)
+
+![Screenshot 1](images/Screenshot%20(123).png)
+
+![Screenshot 1](images/Screenshot%20(124).png)
